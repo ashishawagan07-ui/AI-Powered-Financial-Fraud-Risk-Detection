@@ -1,0 +1,26 @@
+# Large raw dataset
+01_Raw_Data/*.csv
+
+# Generated hash files
+06_Final_Report/row_hashes.bin
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+**/secrets.toml
+
+# Databases
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+.venv/
+
+# Temporary files
+.DS_Store
+Thumbs.db

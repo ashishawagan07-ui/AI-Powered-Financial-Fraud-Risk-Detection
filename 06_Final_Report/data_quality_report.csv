@@ -1,0 +1,8 @@
+Metric,Result
+Total Records,6362620.0
+Total Columns,11.0
+Missing Values,0.0
+Duplicate Records,0.0
+Fraud Transactions,8213.0
+Non-Fraud Transactions,6354407.0
+Fraud Percentage,0.1291

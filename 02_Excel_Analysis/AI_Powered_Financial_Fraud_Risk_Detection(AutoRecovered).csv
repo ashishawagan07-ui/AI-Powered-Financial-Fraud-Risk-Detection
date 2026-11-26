@@ -1,0 +1,9 @@
+Quality_Check,Result
+Total_Records,6362620
+Total_Columns,11
+Missing_Values,To be checked in Python
+Duplicate_Records,To be checked in Python
+Fraud_Transactions,To be checked in Python
+Non_Fraud_Transactions,To be checked in Python
+Fraud_Percentage,To be checked in Python
+Data_Status,Pending Python Validation

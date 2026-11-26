@@ -1,0 +1,72 @@
+/* AI Financial Fraud Detection - 2026 */
+
+.stApp {
+    background: #F4F8FF;
+    color: #173B67;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #123B70, #1765A8);
+}
+
+[data-testid="stSidebar"] * {
+    color: white !important;
+}
+
+.main-title {
+    font-size: 32px;
+    font-weight: 800;
+    color: #174A82;
+    margin-bottom: 5px;
+}
+
+.sub-title {
+    color: #66809F;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.metric-card {
+    background: white;
+    padding: 22px;
+    border-radius: 15px;
+    border: 1px solid #DCE8F7;
+    box-shadow: 0 4px 15px rgba(30, 80, 140, 0.08);
+}
+
+.metric-label {
+    color: #66809F;
+    font-size: 14px;
+}
+
+.metric-value {
+    color: #174A82;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.stButton > button {
+    background: linear-gradient(90deg, #1765A8, #3289D6);
+    color: white;
+    border: none;
+    border-radius: 9px;
+    padding: 10px 22px;
+    font-weight: 600;
+}
+
+.stButton > button:hover {
+    background: #123B70;
+    color: white;
+    border: none;
+}
+
+.stTextInput input,
+.stNumberInput input,
+.stSelectbox div[data-baseweb="select"] {
+    border-radius: 9px;
+}
+
+h1, h2, h3 {
+    color: #174A82;
+}

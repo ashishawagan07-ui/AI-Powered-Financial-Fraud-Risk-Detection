@@ -1,0 +1,6 @@
+type,total_transactions,fraud_transactions,fraud_percentage
+CASH_OUT,2237500,4116,0.1840
+TRANSFER,532909,4097,0.7688
+PAYMENT,2151495,0,0.0000
+DEBIT,41432,0,0.0000
+CASH_IN,1399284,0,0.0000
